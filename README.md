@@ -7,3 +7,7 @@ Also adding my personal favorite play style things, see https://valheim.thunders
 ## Change log
 
 * 1.0.0 -> initial
+
+## Attributions
+
+* Icon - https://www.flaticon.com/free-icon/cave_9986334?term=relic&page=1&position=5&origin=search&related_id=9986334 
