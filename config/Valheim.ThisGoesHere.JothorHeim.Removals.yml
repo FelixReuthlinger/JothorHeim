@@ -1,3 +1,5 @@
 ﻿PrintComment: ThisGoesHere is deleting unwanted files, specialised for JothorHeim
 DeleteFolder:
 - plugins\OdinPlus-OdinsSteelworks
+- config\wackysDatabase\Pieces\SteelWorks
+- config\wackysDatabase\Recipes\SteelWorks

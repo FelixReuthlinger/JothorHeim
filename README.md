@@ -7,6 +7,7 @@ Also adding my personal favorite play style things, see https://valheim.thunders
 
 ## Change log
 
+* 1.0.2 -> fixed removing remaineder from OSW that wouldn't load on server
 * 1.0.1 -> jotun update
 * 1.0.0 -> initial
 
