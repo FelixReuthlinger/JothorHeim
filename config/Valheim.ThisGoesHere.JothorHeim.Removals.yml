@@ -3,3 +3,7 @@ DeleteFolder:
 - plugins\OdinPlus-OdinsSteelworks
 - config\wackysDatabase\Pieces\SteelWorks
 - config\wackysDatabase\Recipes\SteelWorks
+- plugins\WackyMole-RareMagicPortal
+- config\WackyMole.RareMagicPortal.cfg
+- plugins\Smoothbrain-Groups
+- config\org.bepinex.plugins.groups.cfg
