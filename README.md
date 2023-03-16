@@ -6,6 +6,7 @@ Also adding my personal favorite play style things, see https://valheim.thunders
 
 ## Change log
 
+* 1.2.0 -> RelicHeim update, better create a new profile for this one
 * 1.1.0 -> updated removed mods, since some mods got fixes - create new profile and download this modpack again to get changes
 * 1.0.4 -> removed groups mod, not required for smaller single player or coop plays
 * 1.0.3 -> removed another mod not required 
