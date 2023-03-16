@@ -1,0 +1,6 @@
+﻿PrintComment: ThisGoesHere is moving OdinsSteelworks files to config, specialised for JothorHeim linux docker server
+MoveFile:
+- From: plugins/OdinPlus-OdinsSteelworks/OdinsSteelworks.English.yml
+  To: config/OdinPlus-OdinsSteelworks/OdinsSteelworks.English.yml
+- From: plugins/OdinPlus-OdinsSteelworks/OdinsSteelworks.Spanish.yml
+  To: config/OdinPlus-OdinsSteelworks/OdinsSteelworks.Spanish.yml
