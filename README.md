@@ -6,6 +6,7 @@ Also adding my personal favorite play style things, see https://valheim.thunders
 
 ## Change log
 
+* 1.3.1 -> adding better wards with warding buildings from creature damage (indestructible)
 * 1.3.0 -> removed some UI parts, since new relicheim did add similar ones (better use new profile)
 * 1.2.0 -> RelicHeim update, better create a new profile for this one
 * 1.1.0 -> updated removed mods, since some mods got fixes - create new profile and download this modpack again to get changes
