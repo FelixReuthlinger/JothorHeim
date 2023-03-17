@@ -1,0 +1,27 @@
+﻿PrintComment: ThisGoesHere is overwriting some configurations to JothorHeim specific ones
+CopyFile:
+- From: config/JothorHeimOverwriteFiles/Azumatt.AzuAreaRepair.cfg
+  To: config/Azumatt.AzuAreaRepair.cfg
+- From: config/JothorHeimOverwriteFiles/Azumatt.AzuExtendedPlayerInventory.cfg
+  To: config/Azumatt.AzuExtendedPlayerInventory.cfg
+- From: config/JothorHeimOverwriteFiles/Azumatt.AzuWorkbenchTweaks.cfg
+  To: config/Azumatt.AzuWorkbenchTweaks.cfg
+- From: config/JothorHeimOverwriteFiles/org.bepinex.plugins.building.cfg
+  To: config/org.bepinex.plugins.building.cfg
+- From: config/JothorHeimOverwriteFiles/org.bepinex.plugins.conversionsizespeed.cfg
+  To: config/org.bepinex.plugins.conversionsizespeed.cfg
+- From: config/JothorHeimOverwriteFiles/org.bepinex.plugins.farming.cfg
+  To: config/org.bepinex.plugins.farming.cfg
+- From: config/JothorHeimOverwriteFiles/org.bepinex.plugins.foraging.cfg
+  To: config/org.bepinex.plugins.foraging.cfg
+- From: config/JothorHeimOverwriteFiles/org.bepinex.plugins.lumberjacking.cfg
+  To: config/org.bepinex.plugins.lumberjacking.cfg
+- From: config/JothorHeimOverwriteFiles/org.bepinex.plugins.mining.cfg
+  To: config/org.bepinex.plugins.mining.cfg
+- From: config/JothorHeimOverwriteFiles/org.bepinex.plugins.packhorse.cfg
+  To: config/org.bepinex.plugins.packhorse.cfg
+- From: config/JothorHeimOverwriteFiles/WackyMole.EpicMMOSystem.cfg
+  To: config/WackyMole.EpicMMOSystem.cfg
+
+
+

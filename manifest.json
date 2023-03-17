@@ -1,7 +1,7 @@
 {
   "name": "JothorHeim",
   "description": "ModPack based on famous RelicHeim, with some additions and modifications.",
-  "version_number": "1.3.1",
+  "version_number": "1.3.2",
   "website_url": "https://github.com/FelixReuthlinger/JothorHeim",
   "dependencies": [
     "JewelHeim-RelicHeim-3.2.0",
