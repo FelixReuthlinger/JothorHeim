@@ -6,6 +6,7 @@ Also adding my personal favorite play style things, see https://valheim.thunders
 
 ## Change log
 
+* 1.3.8 -> changed container sizes
 * 1.3.7 -> oi that older one not working, replacing
 * 1.3.6 -> adding mass farming, as farming not working ...
 * 1.3.5 -> added AAA crafting

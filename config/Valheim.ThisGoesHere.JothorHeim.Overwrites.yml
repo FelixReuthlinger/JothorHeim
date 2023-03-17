@@ -24,5 +24,6 @@ CopyFile:
   To: config/WackyMole.EpicMMOSystem.cfg
 - From: config/JothorHeimOverwriteFiles/org.bepinex.plugins.creaturelevelcontrol.cfg
   To: config/org.bepinex.plugins.creaturelevelcontrol.cfg
-
+- From: config/JothorHeimOverwriteFiles/Azumatt.AzuContainerSizes.cfg
+  To: config/Azumatt.AzuContainerSizes.cfg
 
