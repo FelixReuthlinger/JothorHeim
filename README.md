@@ -6,6 +6,7 @@ Also adding my personal favorite play style things, see https://valheim.thunders
 
 ## Change log
 
+* 1.3.6 -> adding mass farming, as farming not working ...
 * 1.3.5 -> added AAA crafting
 * 1.3.4 -> ward auto admin permit on
 * 1.3.3 -> slight modification for item respawn in dungeons (faster)
