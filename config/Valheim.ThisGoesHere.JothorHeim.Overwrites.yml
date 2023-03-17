@@ -22,6 +22,7 @@ CopyFile:
   To: config/org.bepinex.plugins.packhorse.cfg
 - From: config/JothorHeimOverwriteFiles/WackyMole.EpicMMOSystem.cfg
   To: config/WackyMole.EpicMMOSystem.cfg
-
+- From: config/JothorHeimOverwriteFiles/org.bepinex.plugins.creaturelevelcontrol.cfg
+  To: config/org.bepinex.plugins.creaturelevelcontrol.cfg
 
 

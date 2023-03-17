@@ -6,6 +6,7 @@ Also adding my personal favorite play style things, see https://valheim.thunders
 
 ## Change log
 
+* 1.3.3 -> slight modification for item respawn in dungeons (faster)
 * 1.3.2 -> added some specific configs to use for JothorHeim (overwriting partially the RelicHeim ones) - playstyle only
 * 1.3.1 -> adding better wards with warding buildings from creature damage (indestructible) and MUC
 * 1.3.0 -> removed some UI parts, since new relicheim did add similar ones (better use new profile)
