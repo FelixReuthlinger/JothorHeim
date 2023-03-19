@@ -26,4 +26,5 @@ CopyFile:
   To: config/org.bepinex.plugins.creaturelevelcontrol.cfg
 - From: config/JothorHeimOverwriteFiles/Azumatt.AzuContainerSizes.cfg
   To: config/Azumatt.AzuContainerSizes.cfg
-
+- From: config/JothorHeimOverwriteFiles/TastyChickenLegs.NoSmokeStayLit.cfg
+  To: config/TastyChickenLegs.NoSmokeStayLit.cfg

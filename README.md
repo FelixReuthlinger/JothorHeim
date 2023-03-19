@@ -6,6 +6,7 @@ Also adding my personal favorite play style things, see https://valheim.thunders
 
 ## Change log
 
+* 1.3.11 -> overwriting more configs
 * 1.3.10 -> removing Odins Kingdom from RelicHeim update
 * 1.3.9 -> sector level reset time increased
 * 1.3.8 -> changed container sizes
