@@ -2,3 +2,5 @@
 DeleteFolder:
 - plugins\WackyMole-RareMagicPortal
 - config\WackyMole.RareMagicPortal.cfg
+- plugins\OdinPlus-OdinsKingdom
+- config\odinplus.plugins.odinskingdom.cfg
