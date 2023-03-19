@@ -6,6 +6,7 @@ Also adding my personal favorite play style things, see https://valheim.thunders
 
 ## Change log
 
+* 1.3.14 -> reenabling the ward protections
 * 1.3.12 & 13 -> more changes, removing distance from cllc to use sector level more
 * 1.3.11 -> overwriting more configs
 * 1.3.10 -> removing Odins Kingdom from RelicHeim update
