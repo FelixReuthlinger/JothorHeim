@@ -6,7 +6,7 @@ Also adding my personal favorite play style things, see https://valheim.thunders
 
 ## Change log
 
-* 1.4.1 -> removed overwritten cllc config, since for RelicHeim play style harder creatures are too hard and loot is not bound to creature levels, server char safe interval decreased, requires fresh profile
+* 1.4.1 & 2 -> removed overwritten cllc config, since for RelicHeim play style harder creatures are too hard and loot is not bound to creature levels, server char safe interval decreased, requires fresh profile
 * 1.4.0 -> incorporating RelicHeim update, recommend new profile
 * 1.3.15 -> more cllc fine tuning
 * 1.3.14 -> reenabling the ward protections
