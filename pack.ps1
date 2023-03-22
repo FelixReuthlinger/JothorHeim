@@ -4,4 +4,4 @@ $compress = @{
   CompressionLevel = "Fastest"
   DestinationPath  = $TargetZipFileName
 }
-Compress-Archive @compress -Update
+Compress-Archive @compress -Force
