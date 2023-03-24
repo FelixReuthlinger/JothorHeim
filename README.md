@@ -6,6 +6,7 @@ Also adding my personal favorite play style things, see https://valheim.thunders
 
 ## Change log
 
+* 1.4.5 -> dependency updates
 * 1.4.4 -> remove combat rework mod that relicheim introduced
 * 1.4.3 -> adding tenacity
 * 1.4.1 & 2 -> removed overwritten cllc config, since for RelicHeim play style harder creatures are too hard and loot is not bound to creature levels, server char safe interval decreased, requires fresh profile
