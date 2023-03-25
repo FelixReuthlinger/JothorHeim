@@ -1,7 +1,7 @@
 {
   "name": "JothorHeim",
   "description": "ModPack based on famous RelicHeim, with some additions and modifications.",
-  "version_number": "1.4.5",
+  "version_number": "1.4.6",
   "website_url": "https://github.com/FelixReuthlinger/JothorHeim",
   "dependencies": [
     "Azumatt-AAA_Crafting-1.0.6",
@@ -9,10 +9,9 @@
     "Azumatt-AzuHoverStats-1.0.6",
     "Azumatt-BetterWards-1.8.6",
     "ComfyMods-EulersRuler-1.4.0",
-    "FixItFelix-SimplePlaystyleEnchancements-1.4.2",
+    "FixItFelix-SimplePlaystyleEnchancements-1.4.4",
     "JewelHeim-RelicHeim-3.3.1",
     "EardwulfDoesMods-ComfyMassFarming-1.0.1",
-    "MSchmoecker-MultiUserChest-0.4.3",
     "Smoothbrain-ServerCharacters-1.3.3",
     "Smoothbrain-Tenacity-1.0.2",
     "ValheimModding-Jotunn-2.11.0",
