@@ -315,3 +315,5 @@ strong_relicheim_creatures:
     infusion:
       Chaos: 0
       Spirit: 0
+    effect power:
+      Regenerating: 0.5
