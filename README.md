@@ -6,6 +6,7 @@ Also adding my personal favorite play style things, see https://valheim.thunders
 
 ## Change log
 
+* 1.4.7 -> added creature configuration that change strong, elemental and aoe creatures to not gain chaos nor spirit (vampiric) infusions to improve playability
 * 1.4.5 & 6 -> dependency updates
 * 1.4.4 -> remove combat rework mod that relicheim introduced
 * 1.4.3 -> adding tenacity

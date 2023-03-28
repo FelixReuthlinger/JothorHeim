@@ -1,0 +1,317 @@
+
+## JothorHeim adjustments
+
+## grouping all existing creatures
+groups:
+  all_relicheim_creatures:
+    - mc_neck_cosmic
+    - mc_chicken_white
+    - mc_chick_white
+    - mc_chicken_angry
+    - mc_chicken_black
+    - mc_chick_black
+    - mc_chick_yellow
+    - mc_chicken_yellow
+    - mc_chicken_cosmic
+    - TheNasty
+    - Golem2
+    - WereWolfWhite
+    - WereWolfBrown
+    - WereWolfBlack
+    - WereWolfBlackArmored
+    - WereWolfDarkGrey
+    - WendigoForest
+    - WendigoSwamp
+    - WereBearBlack
+    - WereBearRed
+    - WereBearGray
+    - Yeti
+    - CrazyTroll
+    - EarthTroll
+    - Ghost_White_DoD
+    - Ghost_Ice_DoD
+    - Vilefang_DoD
+    - Vilefang_Cub_DoD
+    - DarkDrake_DoD
+    - ForestWolf_DoD
+    - ForestWolf_Cub_DoD
+    - Voidling_DoD
+    - SkeletonR_DoD
+    - SkeletonG_DoD
+    - DarknessDrake_DoD
+    - LivingWater_DoD
+    - LivingLava_DoD
+    - ArcaneDrake_DoD
+    - Farkas_Clone_DoD
+    - FrozenBones_DoD
+    - Stormling_DoD
+    - CharredRemains_DoD
+    - ObsidianGolem_DoD
+    - Farkas_Alt_DoD
+    - GreaterSurtling_DoD
+    - FlameDrake_DoD
+    - DireWolf_Cub_DoD
+    - DireWolf_DoD
+    - IceGolem_DoD
+    - LavaGolem_DoD
+    - IceDrake_DoD
+    - PoisonDrake_DoD
+    - Frostling_DoD
+    - Golden_Troll_Miniboss
+    - Golden_Greydwarf_Miniboss
+    - Golden_Wraith_Miniboss
+    - NormalSkeletonWarrior_Spawn
+    - ML_AshHatchling
+    - WraithWarrior
+    - NormalGhostWarrior
+    - Kraken_Blob
+    - FrigidSpider
+    - DeepSea_Serpent_Flying
+    - Surtling_Spawn
+    - ML_AshHuldraQueen3
+    - ML_AshHuldraQueen2
+    - ML_AshHuldraQueen1
+    - PoisonSkeletonWarriorNoFx
+    - ML_JellyFish0
+    - DwarfGoblin_Spawn
+    - DwarfGoblin_NoAttack
+    - GoblinLoxRider
+    - ML_GoblinLox
+    - FireGolem
+    - SpiderBoss_Egg
+    - BlackSpider
+    - Spider_Boss
+    - BrownSpider_Spawn
+    - Spider_Hatchling
+    - BrownSpider
+    - Silkworm_Butterfly
+    - Greydwarf_Purple
+    - FireSkeletonWarriorNoFx
+    - ML_Surtling
+    - ForestSpider
+    - ML_Draugr_Spawn
+    - TanSpider
+    - FireSkeletonWarrior
+    - ML_AshHuldra
+    - Greydwarf_Purple_Shroom
+    - ML_Draugr_Boat
+    - DwarfGoblinLoot
+    - DwarfGoblin
+    - Green_Butterfly
+    - PoisonSkeletonWarrior
+    - IceGolem
+    - ML_RedMistile_Aggressive
+    - DwarfGoblinShaman_Boat
+    - DwarfGoblin_Boat
+    - ML_GoblinShip
+    - DeepSea_Serpent
+    - Molluscan
+    - ML_BlueMistile_Aggressive
+    - ML_DraugrShip
+    - ML_DraugrBomber_Boat
+    - DwarfGoblinShaman
+    - ObsidianGolem
+    - ML_LavaRoot
+    - TreeSpider_Spawn
+    - ChaosSkeletonWarrior
+    - GreenSpider
+    - TreeSpider
+    - MLNPC_Svartalfar0
+    - NightmareDragonEV
+    - Surtr
+    - IceSkeletonWarrior
+    - Rainbow_Butterfly
+    - MolluscanLand
+    - KrakenLD
+    - GhostWarrior
+    - NormalSkeletonWarrior
+    - ChaosSkeletonWarriorNoFX
+    - EvilShadow
+    - MLabz1_DummyTest # test ? lol
+    - FrostSpider
+    - IceSkeletonWarriorNoFx
+    - Wizard
+    - Chicken
+    - BlobTar
+    - Blob
+    - Boar
+    - Tick
+    - Lox
+    - Wolf
+    - Lox_Calf
+    - Wolf_cub
+    - Hen
+    - Boar_piggy
+    - Ulv
+    - Skeleton_Poison
+    - Draugr
+    - Leech
+    - Leech_cave
+    - Serpent
+    - Ghost
+    - Neck
+    - Draugr_Elite
+    - Greydwarf_Shaman
+    - TentaRoot
+    - Greydwarf
+    - Skeleton
+    - TrainingDummy
+    - Greydwarf_Elite
+    - Fenring
+    - Seeker
+    - SeekerBrute
+    - Hatchling
+    - Deathsquito
+    - Gjall
+    - Mistile
+    - TheHive
+    - SeekerBrood
+    - Bat
+    - Wraith
+    - GoblinBrute
+    - StoneGolem
+    - Troll
+    - Abomination
+    - Goblin
+    - Dverger
+    - GoblinShaman
+    - DvergerTest 
+    - Surtling
+    - Fenring_Cultist
+    - DvergerMageFire
+    - DvergerMageIce
+    - DvergerMageSupport
+    - DvergerMage
+    - Skeleton_NoArcher
+    - GoblinArcher
+    - Greyling
+    - Draugr_Ranged
+  all_relicheim_bosses:
+    - SkirSandburst_DoD
+    - BhygshanAlt_DoD
+    - Bhygshan_DoD
+    - Bitterstump_DoD
+    - Farkas_DoD
+    - Rambore_DoD
+    - SvartalfarQueen
+    - SvarTentaRoot
+    - HelDemon
+    - Jotunn
+    - NightmareDragon
+    - Rainbow_Butterfly # why ??
+    - gd_king
+    - SeekerQueen
+    - Dragon
+    - GoblinKing
+    - Eikthyr
+    - Bonemass
+    - Hive
+  all_relicheim_player_creatures:
+    - GoldDrake_DoD
+    - MLNPC_Male3
+    - MLNPC_Male0
+    - MLNPC_Female1
+    - MLNPC_Female0
+    - MLNPC_Male2
+    - Projectile_Tester # test ? lol
+    - MLNPC_Male1
+    - Skeleton_Friendly
+  aoe_relicheim_creatures:
+    - Blob
+    - BlobElite
+    - TheNasty
+    - ML_AshHuldraQueen3
+    - ML_DraugrBomber_Boat
+    - Surtr
+    - DvergerMage
+  elemental_dmg_relicheim_creatures:
+    - Blob
+    - BlobElite
+    - TheNasty
+    - Golem2
+    - CrazyTroll
+    - DarkDrake_DoD
+    - DarknessDrake_DoD
+    - LivingWater_DoD
+    - LivingLava_DoD
+    - ArcaneDrake_DoD
+    - Stormling_DoD
+    - Farkas_Alt_DoD
+    - GreaterSurtling_DoD
+    - FlameDrake_DoD
+    - IceDrake_DoD
+    - PoisonDrake_DoD
+    - Frostling_DoD
+    - ML_AshHatchling
+    - Kraken_Blob
+    - DeepSea_Serpent_Flying
+    - ML_AshHuldraQueen3
+    - ML_AshHuldraQueen2
+    - FireGolem
+    - ML_Surtling
+    - ML_AshHuldra
+    - DwarfGoblinShaman_Boat
+    - ML_DraugrBomber_Boat
+    - DwarfGoblinShaman
+    - Surtr
+    - KrakenLD
+    - BlobTar
+    - Tick
+    - Leech
+    - Leech_cave
+    - Greydwarf_Shaman
+    - Hatchling
+    - Gjall
+    - TheHive
+    - GoblinShaman
+    - DvergerTest
+    - Surtling
+    - Fenring_Cultist
+    - DvergerMageFire
+    - DvergerMageIce
+    - DvergerMage
+  strong_relicheim_creatures:
+    - Golem2
+    - EarthTroll
+    - ObsidianGolem_DoD
+    - IceGolem_DoD
+    - LavaGolem_DoD
+    - Golden_Troll_Miniboss
+    - FireGolem
+    - Spider_Boss
+    - IceGolem
+    - ML_GoblinShip
+    - DeepSea_Serpent
+    - Molluscan
+    - ObsidianGolem
+    - Surtr # should be boss imho
+    - MolluscanLand
+    - KrakenLD # should be boss imho 
+    - MLabz1_DummyTest
+    - Lox
+    - Serpent
+    - SeekerBrute
+    - Gjall
+    - TheHive
+    - GoblinBrute
+    - StoneGolem
+    - Troll
+    - Abomination
+
+aoe_relicheim_creatures:
+  override:
+    infusion:
+      - Chaos: 0
+      - Spirit: 0
+
+elemental_dmg_relicheim_creatures:
+  override:
+    infusion:
+      - Chaos: 0
+      - Spirit: 0
+
+strong_relicheim_creatures:
+  override:
+    infusion:
+      - Chaos: 0
+      - Spirit: 0
