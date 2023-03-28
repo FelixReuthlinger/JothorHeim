@@ -301,17 +301,17 @@ groups:
 aoe_relicheim_creatures:
   override:
     infusion:
-      - Chaos: 0
-      - Spirit: 0
+      Chaos: 0
+      Spirit: 0
 
 elemental_dmg_relicheim_creatures:
   override:
     infusion:
-      - Chaos: 0
-      - Spirit: 0
+      Chaos: 0
+      Spirit: 0
 
 strong_relicheim_creatures:
   override:
     infusion:
-      - Chaos: 0
-      - Spirit: 0
+      Chaos: 0
+      Spirit: 0
