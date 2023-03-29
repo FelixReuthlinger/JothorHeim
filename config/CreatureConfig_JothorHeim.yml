@@ -224,6 +224,8 @@ groups:
     - ML_DraugrBomber_Boat
     - Surtr
     - DvergerMage
+    - LivingWater_DoD
+    - LivingLava_DoD
   elemental_dmg_relicheim_creatures:
     - Blob
     - BlobElite
@@ -266,10 +268,12 @@ groups:
     - GoblinShaman
     - DvergerTest
     - Surtling
+    - Surtling_Spawn
     - Fenring_Cultist
     - DvergerMageFire
     - DvergerMageIce
     - DvergerMage
+    - Voidling_DoD
   strong_relicheim_creatures:
     - Golem2
     - EarthTroll
@@ -297,6 +301,8 @@ groups:
     - StoneGolem
     - Troll
     - Abomination
+    - GoblinLoxRider
+    - ML_GoblinLox
 
 aoe_relicheim_creatures:
   override:
@@ -316,4 +322,4 @@ strong_relicheim_creatures:
       Chaos: 0
       Spirit: 0
     effect power:
-      Regenerating: 0.5
+      Regenerating: 0.3
