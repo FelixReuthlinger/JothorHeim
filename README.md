@@ -6,6 +6,7 @@ Also adding my personal favorite play style things, see https://valheim.thunders
 
 ## Change log
 
+* 1.4.13 -> adding rune magic
 * 1.4.12 -> dependency updates and added advanced portals mod that allows certain ores for certain upgraded portals
 * 1.4.10 & 11 -> further CLLC creature improvements, updated server char version
 * 1.4.9 -> set regenerating effect power for strong creatures to a lot less than default, since they regenerate more than you can damage
