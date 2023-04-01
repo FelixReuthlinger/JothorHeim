@@ -1,6 +1,6 @@
 $TargetZipFileName = "~\Downloads\$(Split-Path -Path $PSScriptRoot -Leaf).zip"
 $compress = @{
-  Path             = "README.md", "manifest.json", "icon.png", "LICENSE", "config"
+  Path             = "$PSScriptRoot\README.md", "$PSScriptRoot\manifest.json", "$PSScriptRoot\icon.png", "$PSScriptRoot\config"
   CompressionLevel = "Fastest"
   DestinationPath  = $TargetZipFileName
 }
