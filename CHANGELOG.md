@@ -1,3 +1,6 @@
+* 1.4.20 -> moved some mods to the other mod pack that is used here
+* 1.4.19 -> updated dependencies
+* 1.4.18 -> updated dependencies
 * 1.4.16 & 17 -> adding better trader to enable easier enchanting material upgrades (dust was still piling up)
 * 1.4.15 -> added custom IronRock to also be teleportable; replaced mass plant mod with plant easily (requires fresh profile); added max dungeon rooms (works only on new world generated with this version)
 * 1.4.14 -> added item drawers & dependency updates
